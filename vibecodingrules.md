@@ -47,6 +47,8 @@
 - Write thorough tests for all major features
 - Avoid major pattern or architecture changes once a feature works well, unless explicitly instructed
 - Always consider how your changes may affect other methods or code areas
+- Avoid hardcoding values into the code. If you have to, flag it up for me to decide how to proceed
+- **Do not use deprecated packages or code**
 
 ## ⚙️ Implementation & Workflow Guidelines
 - Always implement the most efficient and minimal code changes
