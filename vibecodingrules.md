@@ -23,10 +23,10 @@
   - Check for the presence of `PRD.md`, `UI.md`, and `todolist.md`
   - Use the think tool to thoroughly read and understand these documents
   - Prompt the user for clarification if anything is unclear
-  - Always use **context7** MCP to align with best practices in:
-    - Programming
-    - API management
-    - File/folder structure
+  - Always use context7 MCP to align with the .cursor/rules/project.mdc file, which contains best practices for:
+      - Programming conventions
+      - API design and usage
+      - File and folder organization
 
 ## 💻 Coding Standards
 - Always prefer simple, clean solutions
